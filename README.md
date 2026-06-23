@@ -2,7 +2,7 @@
 # ⚡ Olyster CLI and Agent
 
 🚀 **An open-source, terminal-based AI agent and multi-model powerhouse.**
-Control your terminal, analyze codebases, ask questions, or change models instantly—all without leaving your command line. Powered by Gemini and Groq.
+Control your terminal, analyze codebases, ask questions, or change models instantly—all without leaving your command line.
 
 > *Why constantly switch between a browser and a heavy IDE code assistant when you have an incredibly fast and lightweight AI agent and a full-scale web platform living in your terminal?* 🛠️🌐
 
@@ -29,3 +29,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 git clone [https://github.com/yourusername/olyster-cli.git](https://github.com/yourusername/olyster-cli.git)
 
 cd olyster-cli
+
+
